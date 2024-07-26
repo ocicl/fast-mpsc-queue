@@ -4,6 +4,6 @@ Fast Multi-Producer Single-Consumer queue for SBCL x86-64.
 
 |---------+-----------------------------------------------------|
 | source  | git:https://github.com/kchanqvq/fast-mpsc-queue.git |
-| commit  | bb64f18                                             |
+| commit  | fe0de92                                             |
 | systems | fast-mpsc-queue                                     |
 |---------+-----------------------------------------------------|
